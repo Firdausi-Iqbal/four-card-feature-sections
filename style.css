@@ -47,9 +47,12 @@ p {
   padding: 10% 7.5% 5%;
 }
 
-/* header */
 .header {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
   margin: auto auto 2em;
+  text-align: center;
 }
 
 /* card */
